@@ -1,0 +1,11 @@
+
+# Ignorar todos los archivos en el directorio data
+data/detections*
+data/videos*
+
+# No ignorar los archivos específicos que deseas conservar
+!data/detections/badminton_best.json
+!data/videos/input/badminton_test.mp4
+!data/videos/output/badminton_test.mp4
+
+weights/badminton_best.pt
