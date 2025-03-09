@@ -1,4 +1,3 @@
-
 # Ignorar todos los archivos en el directorio data
 data/detections*
 data/videos*
